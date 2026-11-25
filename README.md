@@ -10,6 +10,18 @@
 * **BI и визуализация:** Yandex DataLens
 * **Аналитика и статистика:** A/B-тестирование, когортный анализ, расчет продуктовых метрик (LTV, CAC, Retention, ARPU)
 * **Прочее:** Excel / Google Таблицы (сводные таблицы),  Airflow (базово)
+
+## 🛠️ Tech Stack
+
+![Python](https://shields.io)
+![Pandas](https://shields.io)
+![NumPy](https://shields.io)
+![Matplotlib](https://shields.io)
+![Seaborn](https://shields.io)
+![scikit-learn](https://shields.io)
+![Postgres](https://shields.io)
+![PyTorch](https://shields.io)
+![TensorFlow](https://shields.io)
 <!--
 **noiman-maria/noiman-maria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
