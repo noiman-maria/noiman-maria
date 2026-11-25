@@ -2,7 +2,14 @@
 ### Data Analyst / Продуктовый аналитик
 
 Помогаю бизнесу принимать решения на основе данных: нахожу точки роста, провожу A/B-тесты, строю понятные дашборды.
+---
 
+### 🛠 Мой стек технологий
+
+* **Языки и библиотеки:** Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly), SQL (PostgreSQL, ClickHouse, MySQL)
+* **BI и визуализация:** Yandex DataLens
+* **Аналитика и статистика:** A/B-тестирование, когортный анализ, расчет продуктовых метрик (LTV, CAC, Retention, ARPU)
+* **Прочее:** Excel / Google Таблицы (сводные таблицы),  Airflow (базово)
 <!--
 **noiman-maria/noiman-maria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
