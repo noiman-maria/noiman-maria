@@ -22,6 +22,13 @@
 ![Postgres](https://shields.io)
 ![PyTorch](https://shields.io)
 ![TensorFlow](https://shields.io)
+
+## 🛠️ Технологический стек
+
+![Python](https://badgen.net)
+![Pandas](https://badgen.net)
+![NumPy](https://badgen.net)
+![PostgreSQL](https://badgen.net)
 <!--
 **noiman-maria/noiman-maria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
