@@ -12,3 +12,7 @@
 * **Прочее:** Excel / Google Таблицы (сводные таблицы),  Airflow (базово)
 ---
 
+### 📫 Как со мной связаться
+
+* **Telegram:** @mari_noi
+* **Email:** maria.noiman@yandex.ru
