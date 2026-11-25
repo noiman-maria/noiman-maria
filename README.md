@@ -1,4 +1,7 @@
-## Hi there 👋
+# Привет! Я [Имя Фамилия] 👋
+### Data Analyst / Продуктовый аналитик
+
+Помогаю бизнесу принимать решения на основе данных: нахожу точки роста, провожу A/B-тесты, автоматизирую отчетность и строю понятные дашборды.
 
 <!--
 **noiman-maria/noiman-maria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
