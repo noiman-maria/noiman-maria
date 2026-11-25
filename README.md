@@ -5,7 +5,7 @@
 
 ## 🛠️ Tech Stack / Стек технологий
 
-* **Языки и библиотеки:** Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly), SQL (PostgreSQL, ClickHouse, MySQL)
+* **Языки и библиотеки:** Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly), SQL (PostgreSQL, ClickHouse)
 * **BI и визуализация:** Yandex DataLens
 * **Аналитика и статистика:** A/B-тестирование, когортный анализ, расчет продуктовых метрик (LTV, CAC, Retention, ARPU)
 * **Прочее:** Excel / Google Таблицы (сводные таблицы),  Airflow (базово)
